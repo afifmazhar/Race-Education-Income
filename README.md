@@ -1,7 +1,7 @@
-# Race-Education-Income
-An analysis of Race, Education and Income in the United States
+# Race-Income-Education
+An analysis of Race, Income, Education in the United States
 
-This project was conducted utilizing a published dataset to analyze the trends between race, education, and income differences in the United States. All coding was done in the R language.
+This project was conducted utilizing a published dataset to analyze the trends between race, income, education differences in the United States. All coding was done in the R language.
 
 We will be using the second-hand data from 2015 compiled by the Washington Post. The dataset consists of U.S Census information displaying the variables: Geographic area, City, percent White, percent Black, percent Native American, percent Asian, percent Hispanic, along with each city’s median household income, the graduation rate of cities with a population over 25 people, and percent below poverty level. This dataset was selected not only to highlight the different race percentages that exist per state and city, but to explain the level of which demographics play a role in poverty and consequently education. The data is consistently valid with minor null values, but overall variables are complete.
 
