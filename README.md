@@ -35,3 +35,6 @@ The second, and most accurate method to analyze the data was multiple linear reg
 Part 4: Visualizations 
 
 Data visualizations were included in the form of histograms, scatterplots, and box-and-whisker plots.
+
+
+A cumulative paper is included.
